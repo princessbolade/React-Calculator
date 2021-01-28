@@ -1,0 +1,12 @@
+.input {
+  height: 7rem;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-weight: bolder;
+  font-size: 1.4rem;
+  background-color: #2a2a72;
+  background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+  color: white;
+  padding: 0.5em;
+}
